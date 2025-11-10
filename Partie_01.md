@@ -1,4 +1,4 @@
-**Expliquation du fonctionnement du code**
+**Explication du fonctionnement du code**
 
 
 1- Rôle de useState
